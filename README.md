@@ -140,6 +140,9 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser comme template po
 - Email : cheickhamed2780@gmail.com
 - LinkedIn : [Cheikhna Ould](https://www.linkedin.com/in/cheikhna-ould-6a7689232)
 - GitHub : [Cheikhna12](https://github.com/Cheikhna12)
+## Url de deploiment
+
+(https://portfolio-sepia-theta-42.vercel.app/)
 
 ## Auteur
 
