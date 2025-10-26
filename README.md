@@ -145,7 +145,7 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser comme template po
 (https://portfolio-cheikhna.vercel.app/)
 
 ## Url de deploiement
-(https://portfolio-sepia-theta-42.vercel.app/)
+(https://portfolio-cheikhna.vercel.app/)
 
 ## Auteur
 
