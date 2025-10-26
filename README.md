@@ -19,9 +19,6 @@ Portfolio mettant en avant mes compétences en développement web full-stack, me
 
 - **Next.js 15** - Framework React avec App Router
 - **TypeScript** - Typage statique pour un code robuste
-- **Tailwind CSS** - Framework CSS utilitaire
-- **Framer Motion** - Animations fluides et interactions
-- **Lucide React** - Icônes modernes SVG
 - **Resend** - Service d'envoi d'emails pour le formulaire de contact
 
 ## Installation
