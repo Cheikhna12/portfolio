@@ -1,10 +1,10 @@
 # Portfolio - Cheikhna Mouhamedou Ould
 
-Portfolio minimaliste et performant de développeur full-stack, développé avec Next.js 15, TypeScript et Tailwind CSS.
+Portfolio de développeur full-stack, développé avec Next.js 15, TypeScript et Tailwind CSS.
 
 ## Aperçu
 
-Portfolio moderne avec un design épuré de type "Investigation Board", mettant en avant mes compétences en développement web full-stack, mes projets et mon expérience professionnelle.
+Portfolio mettant en avant mes compétences en développement web full-stack, mes projets et mon expérience professionnelle.
 
 ## Fonctionnalités
 
