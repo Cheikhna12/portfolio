@@ -9,10 +9,9 @@ Portfolio mettant en avant mes compétences en développement web full-stack, me
 ## Fonctionnalités
 
 - Design minimaliste et responsive
-- Animations fluides et interactions optimisées
+- Animations et interactions optimisées
 - Performance optimisée (Next.js 15 App Router)
 - SEO-friendly
-- Mode sombre/clair
 - Formulaire de contact fonctionnel
 - Navigation fluide entre les sections
 
