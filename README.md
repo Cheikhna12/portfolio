@@ -131,21 +131,6 @@ Configurer ces variables dans les paramètres de votre projet Vercel :
 
 Éditer `tailwind.config.ts` pour personnaliser les couleurs, polices et autres styles.
 
-## Performance
-
-- Optimisation des images avec Next.js Image
-- Code splitting automatique
-- Lazy loading des composants
-- CSS optimisé avec Tailwind CSS
-- Animations performantes avec Framer Motion
-
-## SEO
-
-- Métadonnées optimisées
-- Open Graph tags
-- Sitemap automatique
-- Robots.txt configuré
-
 ## Licence
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser comme template pour votre propre portfolio.
