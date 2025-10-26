@@ -80,44 +80,6 @@ npm run start    # Démarrer le serveur de production
 npm run lint     # Vérifier le code avec ESLint
 ```
 
-## Déploiement sur Vercel
-
-### Méthode 1 : Via GitHub (Recommandée)
-
-1. Pusher votre code sur GitHub
-
-```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
-
-2. Aller sur [Vercel](https://vercel.com)
-3. Cliquer sur "Add New Project"
-4. Importer votre repository GitHub
-5. Configurer les variables d'environnement dans les paramètres Vercel
-6. Déployer
-
-### Méthode 2 : Via Vercel CLI
-
-1. Installer Vercel CLI
-
-```bash
-npm install -g vercel
-```
-
-2. Se connecter à Vercel
-
-```bash
-vercel login
-```
-
-3. Déployer
-
-```bash
-vercel
-```
-
 ### Variables d'environnement sur Vercel
 
 Configurer ces variables dans les paramètres de votre projet Vercel :
