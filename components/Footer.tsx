@@ -67,7 +67,6 @@ const Footer = () => {
                 <div>
                   <p className="text-xs text-gray-light uppercase mb-1">Address</p>
                   <p className="text-sm text-foreground">
-                    6 square d&apos;Alsace<br />
                     Rennes, 35000, France
                   </p>
                 </div>

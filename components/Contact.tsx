@@ -75,7 +75,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Localisation',
-      value: '6 square d\'Alsace, Rennes 35000',
+      value: 'Rennes 35000',
       link: null,
     },
   ]

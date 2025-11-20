@@ -3,13 +3,7 @@
 const Experience = () => {
 
   const experiences = [
-    {
-      company: 'Kleer',
-      position: 'Stagiaire Développeur Full-Stack',
-      period: 'Janvier 2026',
-      description: 'Développement d\'applications web modernes avec Next.js et flask',
-      current: true,
-    },
+   
     {
       company: 'Ebenyx Technologie',
       position: 'stagiaire Développeur Full-Stack',
