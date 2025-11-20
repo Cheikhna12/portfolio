@@ -43,11 +43,7 @@ const Experience = () => {
                   <div>
                     <h3 className="text-xl font-bold text-foreground">
                       {exp.company}
-                      {exp.current && (
-                        <span className="ml-3 text-xs bg-foreground text-background px-2 py-1 font-normal">
-                          EN COURS
-                        </span>
-                      )}
+                      
                     </h3>
                     <p className="text-base text-gray-light mt-1">{exp.position}</p>
                   </div>
