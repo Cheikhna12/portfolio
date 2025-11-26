@@ -46,7 +46,7 @@ const About = () => {
               <div className="pt-4">
                 <a
                   href="/cv/CV_Cheikhna_Mouhamedou_Ould.pdf"
-                  download
+                  download="CV_Cheikhna_Mouhamedou_Ould.pdf"
                   className="inline-flex items-center gap-2 text-accent hover:underline"
                 >
                   <Download size={18} />

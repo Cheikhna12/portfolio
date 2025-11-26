@@ -86,11 +86,11 @@ a:hover, button:hover {
   }
 
   .ticker-animate-ltr {
-    animation: ticker-ltr 30s linear infinite;
+    animation: ticker-ltr 15s linear infinite;
   }
 
   .ticker-animate-rtl {
-    animation: ticker-rtl 40s linear infinite;
+    animation: ticker-rtl 20s linear infinite;
   }
 
   .ticker-animate-ltr:hover,

@@ -6,6 +6,14 @@ const Projects = () => {
 
   const projects = [
     {
+      title: 'InternshipQuest',
+      category: 'Jeu RPG 2D',
+      description: 'Jeu de simulation de recherche de stage développé avec LibGDX. Le joueur incarne un étudiant qui explore une ville, visite des entreprises et participe à des mini-jeux pour décrocher un stage.',
+      tech: ['Java', 'LibGDX', 'Tiled', 'Maven'],
+      link: null,
+      github: 'https://github.com/Cheikhna12/internshipGame',
+    },
+    {
       title: 'CiPolitik',
       category: 'Plateforme Web Politique',
       description: 'Co-fondateur et architecte technique d\'une plateforme révolutionnant l\'information politique en Côte d\'Ivoire.',
